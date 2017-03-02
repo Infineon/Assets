@@ -14,10 +14,10 @@
                "architecture":"arm",
                "version":"1.0.0",
                "category":"Contributed",
-               "url":"https://github.com/Infineon/Assets/raw/master/Boards/XMC_IFX_1.0.0.zip",
+               "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.0.0/XMC_IFX_1.0.0.zip",
                "archiveFileName":"XMC_IFX_1.0.0.zip",
                "checksum":"SHA-256:e04e142e028325d0899b02ca53e4eec043defac021232c4a93cb59e48f33f394",
-               "size":"1329868",
+               "size":"1418983",
                "help":{
                   "online":"https://github.com/Infineon/XMC-for-Arduino"
                },
@@ -53,7 +53,7 @@
                "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.0.1/XMC_IFX_1.0.1.zip",
                "archiveFileName":"XMC_IFX_1.0.1.zip",
                "checksum":"SHA-256:6b8d989bf4f781c3d034f9097c7767011dd22eb0e453e520349d39d110125ab5",
-               "size":"1329868",
+               "size":"1461793",
                "help":{
                   "online":"https://github.com/Infineon/XMC-for-Arduino"
                },
