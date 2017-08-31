@@ -123,7 +123,7 @@
                "version":"1.0.3",
                "category":"Contributed",
                "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.0.3/XMC_IFX_1.0.3.zip",
-               "archiveFileName":"XMC_IFX_1.0.2.zip",
+               "archiveFileName":"XMC_IFX_1.0.3.zip",
                "checksum":"SHA-256:af4494d94ec9e04ea63488ff816a81303691447807bd7b58245570d16462f415",
                "size":"1445822",
                "help":{
@@ -155,7 +155,46 @@
                      "version":"1.2.0"
                   }
                ]
-            }            
+            },
+            {
+               "name":"Infineon's XMC Microcontroller",
+               "architecture":"arm",
+               "version":"1.0.4",
+               "category":"Contributed",
+               "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.0.4/XMC_IFX_1.0.4.zip",
+               "archiveFileName":"XMC_IFX_1.0.4.zip",
+               "checksum":"SHA-256:fda31ea7b6758f1bab928033945dbf77b7e031e1d7f458ff927566856cd84e60",
+               "size":"1358552",
+               "help":{
+                  "online":"https://github.com/Infineon/XMC-for-Arduino"
+               },
+               "boards":[
+                  {
+                     "name":" XMC1100 Boot Kit"
+                  },
+                  {
+                     "name":" XMC1100 XMC2Go"
+                  },
+                  {
+                     "name":" XMC1300 Boot Kit"
+                  },
+                  {
+                     "name":" XMC4700 Relax Kit"
+                  }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"arduino",
+                     "name":"arm-none-eabi-gcc",
+                     "version":"4.8.3-2014q1"
+                  },
+                  {
+                     "packager":"Infineon",
+                     "name":"XMCFlasher",
+                     "version":"1.2.0"
+                  }
+               ]
+            }                        
 
          ],
          "tools":[
