@@ -317,6 +317,47 @@
                      "size":"11244414"
                   }
                ]
+            },
+            {
+               "name":"XMCFlasher",
+               "version":"1.2.1",
+               "systems":[
+                  {
+                     "host":"arm-linux-gnueabihf",
+                     "url":"https://github.com/Infineon/Assets/raw/master/Tools/XMCFlasher_IFX_1.2.1.zip",
+                     "archiveFileName":"XMCFlasher_IFX_1.2.1.zip",
+                     "checksum":"SHA-256:8b1241a3d435877ede082e1bd998b691b931bad4194e756c0a4b38fb284a4f3d",
+                     "size":"11243801"
+                  },
+                  {
+                     "host":"i686-mingw32",
+                     "url":"https://github.com/Infineon/Assets/raw/master/Tools/XMCFlasher_IFX_1.2.1.zip",
+                     "archiveFileName":"XMCFlasher_IFX_1.2.1.zip",
+                     "checksum":"SHA-256:8b1241a3d435877ede082e1bd998b691b931bad4194e756c0a4b38fb284a4f3d",
+                     "size":"11243801"
+                  },
+                  {
+                     "host":"x86_64-apple-darwin",
+                     "url":"https://github.com/Infineon/Assets/raw/master/Tools/XMCFlasher_IFX_1.2.1.zip",
+                     "archiveFileName":"XMCFlasher_IFX_1.2.1.zip",
+                     "checksum":"SHA-256:8b1241a3d435877ede082e1bd998b691b931bad4194e756c0a4b38fb284a4f3d",
+                     "size":"11243801"
+                  },
+                  {
+                     "host":"x86_64-pc-linux-gnu",
+                     "url":"https://github.com/Infineon/Assets/raw/master/Tools/XMCFlasher_IFX_1.2.1.zip",
+                     "archiveFileName":"XMCFlasher_IFX_1.2.1.zip",
+                     "checksum":"SHA-256:8b1241a3d435877ede082e1bd998b691b931bad4194e756c0a4b38fb284a4f3d",
+                     "size":"11243801"
+                  },
+                  {
+                     "host":"i686-pc-linux-gnu",
+                     "url":"https://github.com/Infineon/Assets/raw/master/Tools/XMCFlasher_IFX_1.2.1.zip",
+                     "archiveFileName":"XMCFlasher_IFX_1.2.1.zip",
+                     "checksum":"SHA-256:8b1241a3d435877ede082e1bd998b691b931bad4194e756c0a4b38fb284a4f3d",
+                     "size":"11243801"
+                  }
+               ]
             }
          ]
       }
