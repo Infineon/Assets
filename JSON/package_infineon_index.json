@@ -239,8 +239,8 @@
                "architecture":"arm",
                "version":"1.0.6",
                "category":"Contributed",
-               "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.0.6/XMC_IFX_1.0.5.zip",
-               "archiveFileName":"XMC_IFX_1.0.5.zip",
+               "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.0.6/XMC_IFX_1.0.6.zip",
+               "archiveFileName":"XMC_IFX_1.0.6.zip",
                "checksum":"SHA-256:e307dbd4f21bfda6e2007433b32cc540acc1e01cb4b4cc61154b220dcfe1fa7c",
                "size":"1370473",
                "help":{
