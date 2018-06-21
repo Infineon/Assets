@@ -429,14 +429,14 @@
                      "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
                      "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
                      "checksum":"SHA-256:a397c49bdd0cf17a38a494cb691baf68b8dcffa4d4c06561ef3d71b2ab4c92a1",
-                     "size":"92827648"
+                     "size":"92820662"
                   },
                   {
                      "host":"x86_64-pc-linux-gnu",
                      "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
                      "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
                      "checksum":"SHA-256:a397c49bdd0cf17a38a494cb691baf68b8dcffa4d4c06561ef3d71b2ab4c92a1",
-                     "size":"92827648"
+                     "size":"92820662"
                   }
                ]
             },
