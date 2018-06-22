@@ -326,7 +326,7 @@
                "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.1.1/XMC_IFX_1.1.1.zip",
                "archiveFileName":"XMC_IFX_1.1.1.zip",
                "checksum":"SHA-256:0f09fd02d5cbfa206536e56b70750b2abdd9006dfb630a3d6a42d8322748098b",
-               "size":"1482752",
+               "size":"1480676",
                "help":{
                   "online":"https://github.com/Infineon/XMC-for-Arduino"
                },
@@ -419,22 +419,22 @@
                   },
                   {
                      "host":"x86_64-apple-darwin",
-                     "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-mac,-d-,tar.bz2",
-                     "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-mac,-d-,tar.bz2",
+                     "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-mac.-d-.tar.bz2",
+                     "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-mac.-d-.tar.bz2",
                      "checksum":"SHA-256:5656cdec40f99d5c054a85bbc694276e1c4a1488cdacbbc448bc6acd3bbe070d",
                      "size":"96956416"
                   },
                   {
                      "host":"i686-pc-linux-gnu",
-                     "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
-                     "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
+                     "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-linux.-d-.tar.bz2",
+                     "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-linux.-d-.tar.bz2",
                      "checksum":"SHA-256:a397c49bdd0cf17a38a494cb691baf68b8dcffa4d4c06561ef3d71b2ab4c92a1",
                      "size":"92820662"
                   },
                   {
                      "host":"x86_64-pc-linux-gnu",
-                     "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
-                     "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
+                     "url":"https://github.com/Infineon/Assets/releases/download/current/gcc-arm-none-eabi-5_4-2016q3-20160926-linux.-d-.tar.bz2",
+                     "archiveFileName":"gcc-arm-none-eabi-5_4-2016q3-20160926-linux.-d-.tar.bz2",
                      "checksum":"SHA-256:a397c49bdd0cf17a38a494cb691baf68b8dcffa4d4c06561ef3d71b2ab4c92a1",
                      "size":"92820662"
                   }
