@@ -370,8 +370,8 @@
                "category":"Contributed",
                "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.1.2/XMC_IFX_1.1.2.zip",
                "archiveFileName":"XMC_IFX_1.1.2.zip",
-               "checksum":"SHA-256:f5b1062d2648fd0a7ec9d6d135e0a4897fd48001d9b7f09b810a0ca6747c45aa",
-               "size":"1482752",
+               "checksum":"SHA-256:ae1d8205c77d10bcb9befa38c06260376b241ef499a66b8fa92d27f07b002092",
+               "size":"1491026",
                "help":{
                   "online":"https://github.com/Infineon/XMC-for-Arduino"
                },
