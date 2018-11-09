@@ -452,7 +452,52 @@
                      "version":"1.2.1"
                   }
                ]
-            }            
+            },
+            {
+               "name":"Infineon's XMC Microcontroller",
+               "architecture":"arm",
+               "version":"1.2.1",
+               "category":"Contributed",
+               "url":"https://github.com/Infineon/XMC-for-Arduino/releases/download/V1.2.1/XMC_IFX_1.2.1.zip",
+               "archiveFileName":"XMC_IFX_1.2.1.zip",
+               "checksum":"SHA-256:d38c8d846414c6c054f50f19856c7764e0c10a0cf5107999bbcea102049b93a5",
+               "size":"2255000",
+               "help":{
+                  "online":"https://github.com/Infineon/XMC-for-Arduino"
+               },
+               "boards":[
+                  {
+                     "name":"XMC1100 Boot Kit"
+                  },
+                  {
+                     "name":"XMC1100 XMC2Go"
+                  },
+                  {
+                     "name":"XMC1100 H-Bridge 2Go"
+                  },
+                  {
+                     "name":"XMC1300 Boot Kit"
+                  },
+                  {
+                     "name":"XMC1300 Sense2GoL"
+                  },
+                  {
+                     "name":"XMC4700 Relax Kit"
+                  }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"Infineon",
+                     "name":"arm-none-eabi-gcc",
+                     "version":"5.4-2016q3"
+                  },
+                  {
+                     "packager":"Infineon",
+                     "name":"XMCFlasher",
+                     "version":"1.2.1"
+                  }
+               ]
+            }                        
          ],
          "tools":[
             {
