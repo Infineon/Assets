@@ -13,11 +13,11 @@
    viewBox="0 0 1502.0386 1243.5837"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="XMC4400_Platform_2go_V1.0.0.svg"
-   inkscape:export-filename="C:\Users\sharmashubha\Desktop\xmc4400_platform2go.png"
-   inkscape:export-xdpi="135.68756"
-   inkscape:export-ydpi="135.68756">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="XMC4400_Platform_2go_V1_0_1.svg"
+   inkscape:export-filename="C:\Documents and Settings\new\My Documents\Infineon\Pictures\PNG\xmc4400_platform2go_V1_0_1.png"
+   inkscape:export-xdpi="76.699997"
+   inkscape:export-ydpi="76.699997">
   <defs
      id="defs4">
     <marker
@@ -2965,16 +2965,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5219183"
-     inkscape:cx="785.45509"
-     inkscape:cy="703.18958"
+     inkscape:zoom="0.76095915"
+     inkscape:cx="736.28616"
+     inkscape:cy="460.26117"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="2880"
-     inkscape:window-height="1706"
-     inkscape:window-x="2869"
-     inkscape:window-y="-11"
+     inkscape:window-width="1280"
+     inkscape:window-height="958"
+     inkscape:window-x="1276"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      fit-margin-top="0.3"
      fit-margin-left="0"
@@ -3014,7 +3014,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7425,7 +7425,8 @@
        id="text7109-6-3-7-4-25-9-8"
        inkscape:export-filename="C:\Users\Hollfema\Desktop\bitmap3.png"
        inkscape:export-xdpi="135"
-       inkscape:export-ydpi="135"><tspan
+       inkscape:export-ydpi="135"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="-767.22058"
          y="766.64453"
@@ -7433,7 +7434,7 @@
            x="-767.22058"
            y="766.64453"
            style="font-size:15px;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-           id="tspan7113-4-9-2-4-5-0-9">On-board micro USB of XMC4700</tspan></tspan></text>
+           id="tspan7113-4-9-2-4-5-0-9">On-board micro USB of XMC4400</tspan></tspan></text>
     <path
        style="opacity:1;fill:#ffef1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -747.97763,224.47948 h -228.74162 v -24.92483 h 228.74162 z"
@@ -7978,15 +7979,16 @@
     <text
        transform="scale(0.94425074,1.0590407)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.7739px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.619347px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.77389908px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61934698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="14.475245"
        y="721.17444"
-       id="text7109-6-3-7-4-25-9-6-3-2-7-8-7-02-7-0-0"><tspan
-         style="stroke-width:0.619347px"
+       id="text7109-6-3-7-4-25-9-6-3-2-7-8-7-02-7-0-0"
+       sodipodi:linespacing="125%"><tspan
+         style="stroke-width:0.61934698px"
          y="721.17444"
          x="14.475245"
          id="tspan4024"
-         sodipodi:role="line">V1.0.0</tspan></text>
+         sodipodi:role="line">V1.0.1</tspan></text>
     <path
        inkscape:export-ydpi="135"
        inkscape:export-xdpi="135"
@@ -9268,8 +9270,7 @@
            height="186.41907"
            x="1121.7285"
            y="1129.8743" /></flowRegion><flowPara
-         id="flowPara5186" /></flowRoot>
-    <flowRoot
+         id="flowPara5186" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5293"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -9279,8 +9280,7 @@
            height="143.75"
            x="830.11365"
            y="1200.9211" /></flowRegion><flowPara
-         id="flowPara5299" /></flowRoot>
-    <text
+         id="flowPara5299" /></flowRoot>    <text
        transform="scale(1.0333511,0.9677253)"
        inkscape:export-ydpi="135"
        inkscape:export-xdpi="135"
@@ -9288,26 +9288,28 @@
        id="text7109-6-3-7-4-25-9-6-3-2-7-8-7-02-7-3-9-4-0-3"
        y="422.63928"
        x="-1196.0721"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5763px;line-height:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.971756px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.57629967px;line-height:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.97175598px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan1475">The XMC4400 board has pin headers</tspan><tspan
+         id="tspan1475"
+         x="-1196.0721"
+         y="422.63928">The XMC4400 board has pin headers</tspan><tspan
          sodipodi:role="line"
-         id="tspan1477"> </tspan><tspan
+         id="tspan1477"
+         x="-1196.0721"
+         y="435.13928"> </tspan><tspan
          sodipodi:role="line"
-         id="tspan1479">X1 and X2 for additional pins of the</tspan><tspan
+         id="tspan1479"
+         x="-1196.0721"
+         y="447.63928">X1 and X2 for additional pins of the</tspan><tspan
          sodipodi:role="line"
-         id="tspan1481"> </tspan><tspan
+         id="tspan1481"
+         x="-1196.0721"
+         y="460.13928"> </tspan><tspan
          sodipodi:role="line"
-         id="tspan1483">XMC4400.  Currently, implementation</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1485" /><tspan
-         sodipodi:role="line"
-         id="tspan1487">for the Arduino IDE has not been fully</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1489" /><tspan
-         sodipodi:role="line"
-         id="tspan1491">finished.</tspan></text>
+         id="tspan1491"
+         x="-1196.0721"
+         y="472.63928">XMC4400. </tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.26736;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker30403-9-6-2-5-2)"
        d="m -392.12065,-123.90833 1.13087,52.259077 215.61194,-0.118018"
