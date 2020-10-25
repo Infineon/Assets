@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1016224"
-     inkscape:cx="492.94231"
-     inkscape:cy="206.3095"
+     inkscape:zoom="3.1158587"
+     inkscape:cx="443.63205"
+     inkscape:cy="123.95472"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -747,7 +747,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2402,7 +2402,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="rect4142-1-2-0-1-5-12-8-0-38-3-0-9-9-3"
-       d="m -844.05224,647.33367 h -130.02174 v 17.6688 h 130.02174 z"
+       d="m -844.05224,647.33367 h -152.52174 v 17.6688 h 152.52174 z"
        style="opacity:1;fill:#ffef1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.36504766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        inkscape:export-ydpi="135"
@@ -2410,18 +2410,18 @@
        inkscape:export-filename="C:\Users\Hollfema\Desktop\bitmap3.png"
        id="text7109-50-0-5-20-4-2"
        y="661.89264"
-       x="-913.05035"
+       x="-920.55035"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan7111-3-3-9-9-6-3"
          y="661.89264"
-         x="-913.05035"
+         x="-920.55035"
          sodipodi:role="line"
          style="font-size:40px;line-height:1.25"><tspan
            id="tspan7113-56-4-6-8-7-2"
            style="font-size:15px;text-align:center;writing-mode:lr-tb;text-anchor:middle"
            y="661.89264"
-           x="-913.05035">ADC A4 / SDA</tspan></tspan></text>
+           x="-920.55035">ADC A4 / I2C: SDA</tspan></tspan></text>
     <path
        inkscape:export-ydpi="135"
        inkscape:export-xdpi="135"
@@ -2790,7 +2790,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="rect4142-1-2-0-1-5-12-8-0-38-3-0-6-1-8"
-       d="m -844.05224,665.99344 h -130.02174 v 17.6688 h 130.02174 z"
+       d="m -844.05224,665.99344 h -152.52174 v 17.6688 h 152.52174 z"
        style="opacity:1;fill:#ffef1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.36504766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        inkscape:export-ydpi="135"
@@ -2798,18 +2798,18 @@
        inkscape:export-filename="C:\Users\Hollfema\Desktop\bitmap3.png"
        id="text7109-50-0-5-27-3-7"
        y="680.57117"
-       x="-914.54449"
+       x="-922.04449"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan7111-3-3-9-3-4-3"
          y="680.57117"
-         x="-914.54449"
+         x="-922.04449"
          sodipodi:role="line"
          style="font-size:40px;line-height:1.25"><tspan
            id="tspan7113-56-4-6-44-9-0"
            style="font-size:15px;text-align:center;writing-mode:lr-tb;text-anchor:middle"
            y="680.57117"
-           x="-914.54449">ADC A5 / SCL</tspan></tspan></text>
+           x="-922.04449">ADC A5 / I2C: SCL</tspan></tspan></text>
     <path
        inkscape:export-ydpi="135"
        inkscape:export-xdpi="135"
